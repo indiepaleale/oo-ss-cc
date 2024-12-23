@@ -1,0 +1,16 @@
+{
+  "name": "osc-gen",
+  "version": "0.0.0",
+  "description": "Generate OSC message from interactive system",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.3",
+    "osc-js": "^2.4.1",
+    "p5": "^1.11.2"
+  }
+}
